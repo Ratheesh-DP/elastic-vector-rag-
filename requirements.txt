@@ -1,0 +1,5 @@
+elasticsearch
+sentence-transformers
+openai
+numpy
+python-dotenv
